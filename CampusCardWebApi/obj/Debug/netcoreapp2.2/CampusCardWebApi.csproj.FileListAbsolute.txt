@@ -1,0 +1,4 @@
+D:\Usama\PAF-IAST\CampusCardWebApi\CampusCardWebApi\obj\Debug\netcoreapp2.2\CampusCardWebApi.csprojAssemblyReference.cache
+D:\Usama\PAF-IAST\CampusCardWebApi\CampusCardWebApi\obj\Debug\netcoreapp2.2\CampusCardWebApi.csproj.CoreCompileInputs.cache
+D:\Usama\PAF-IAST\CampusCardWebApi\CampusCardWebApi\obj\Debug\netcoreapp2.2\CampusCardWebApi.AssemblyInfoInputs.cache
+D:\Usama\PAF-IAST\CampusCardWebApi\CampusCardWebApi\obj\Debug\netcoreapp2.2\CampusCardWebApi.AssemblyInfo.cs
